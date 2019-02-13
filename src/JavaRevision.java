@@ -12,7 +12,7 @@ public static void main (String [] args){
     // creating the Objects of circle class
     Shape circle = new Circle(2, "Cicle");
     System.out.println("Area of circle: " + circle.area());
-    circle.moveTo(2,4);
+    circle.moveTo(5,4);
 
     }
 
